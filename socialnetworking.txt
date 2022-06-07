@@ -71,3 +71,4 @@ twine.*
 omgili.*
 ballhype.*
 weeworld.*
+twimg.*
