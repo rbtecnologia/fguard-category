@@ -1,0 +1,5 @@
+drive.google.com
+icloud.com
+dropbox.com
+onedrive.com
+wetransfer.com
