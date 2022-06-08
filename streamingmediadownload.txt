@@ -1,4 +1,5 @@
 youtube.*
+socialradio.com.br
 googlevideo.*
 vimeo.*
 twitch.*
