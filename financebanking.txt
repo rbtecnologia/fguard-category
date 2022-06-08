@@ -14,3 +14,5 @@ gastecnologia.com.br
 bb.com.br
 *.bb.com.br
 bradesconetempresa.b.br
+santandernetibe.com.br
+*.santandernetibe.com.br
