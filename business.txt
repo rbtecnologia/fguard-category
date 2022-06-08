@@ -12,6 +12,7 @@ kaspersky.com
 *.powerbiexperience.com
 *.argoit.com.br
 *.mouradubeux.com.br
+argoit.com.br
 mouradubeux.com.br
 rbtecnologia.com
 *.rbtecnologia.com
@@ -33,3 +34,4 @@ movidesk.com
 portalsgr.com.br
 anydesk.com
 autodesk.com
+cloudflare.com

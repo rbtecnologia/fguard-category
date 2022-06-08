@@ -1,5 +1,7 @@
 youtube.*
+youtube.com
 socialradio.com.br
+itunes.apple.com
 radiofobia.com.br
 streamlock.net
 tidaltv.com
