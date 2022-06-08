@@ -1,0 +1,3 @@
+hotmail.*
+mail.google.*
+mail.live.*
