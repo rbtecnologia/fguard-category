@@ -22,3 +22,7 @@ courier.push.apple.com
 plus.site24x7.com
 avast.com
 *avast.com
+*.dynamics.com
+dynamics.com
+*.powerapps.com
+powerapps.com
