@@ -1,0 +1,3 @@
+*.gov.br
+*.mil.br
+*.jus.br
