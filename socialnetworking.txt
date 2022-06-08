@@ -132,7 +132,7 @@ twimg.*
 0.latest.freebasics.com
 0.mx.freebasics.com
 0.prod.freebasics.com
-0.telegram.org
+
 0.twitter.com
 0.vk.com
 0.wap.internet.org
@@ -175,7 +175,7 @@ twimg.*
 1-act.channel.facebook.com
 1-edge-chat.facebook.com
 1pi.ask.fm
-1-www.telegram.org
+
 2010.twitter.com
 2011.twitter.com
 2012.twitter.com
@@ -713,7 +713,7 @@ analytics.twitter.com
 and.come.view-pictures.plus.google.com
 android.bugly.qq.com
 android.imo.im
-android.telegram.org
+
 an.facebook.com
 animesketch.reddit.com
 anket.pinterest.com
@@ -821,7 +821,7 @@ api.slack.com
 api.snapchat.com
 api.standalone.ccpl.xwf.internet.org
 api.teams.skype.com
-api.telegram.org
+
 apitest.odnoklassniki.ru
 api-test.twitter.com
 api.the-dots.com
@@ -944,8 +944,8 @@ aum.internet.org
 au.myspace.com
 au.pinterest.com
 aura-11-01-snc7.facebook.com
-aurora-1.web.telegram.org
-aurora.web.telegram.org
+
+
 auth.gateway.meetme.com
 auth.gateway.tagged.com
 auth.odnoklassniki.ru
@@ -1012,7 +1012,7 @@ bdemo-sg.sg.expresswifi.com
 bd.m.facebook.com
 beararms.meetup.com
 bebe-de-stars.skyrock.com
-bebuh.telegram.org
+
 
 beppegrillo.meetup.com
 
@@ -1076,7 +1076,7 @@ blogs-fan-fics-yaoi.skyrock.com
 blogs.myspace.com
 blog.snapchat.com
 blog.tagged.com
-blog.telegram.org
+
 blog.twitter.com
 blog.wechat.com
 blog.weheartit.com
@@ -1126,7 +1126,7 @@ bs-ba.facebook.com
 bsh.z.qq.com
 b.static.ak.facebook.com
 b.static.ak.fbcdn.net
-b.telegram.org
+
 b.thumbs.redditmedia.com
 btrace.qq.com
 btrace.video.qq.com
@@ -1397,7 +1397,7 @@ coollink.expresswifi.com
 coollinkqa.beta.xwf.internet.org
 coollink.xdub1.xwf.internet.org
 co.pinterest.com
-core.telegram.org
+
 corp.badoo.com
 corp.tagged.com
 corp.vk.com
@@ -1488,7 +1488,7 @@ day-trips.meetup.com
 
 dc.i.org
 dczia.slack.com
-deactive.telegram.org
+
 deaf.meetup.com
 deals.snapfish.com
 de.api.meetme.com
@@ -1500,7 +1500,7 @@ de.feed.meetme.com
 de.friends.meetme.com
 de.help.meetme.com
 de.home.meetme.com
-dektop.telegram.org
+
 del.icio.us
 delima.line.me
 
@@ -1516,15 +1516,15 @@ de.pinterest.com
 depressionregamins.reddit.com
 de.profile.meetme.com
 de.reddit.com
-desctop.telegram.org
+
 designer.snapfish.com
-deskpot.telegram.org
-desktop.telegram.org
-desktup.telegram.org
+
+
+
 desmona.skyrock.com
 des-news-en-series.skyrock.com
 de.ssl.meetme.com
-destop.telegram.org
+
 de.swarmapp.com
 dev111.slack.com
 dev275.slack.com
@@ -1635,7 +1635,7 @@ downloads.flickr.com
 download.skype.com
 downloads.pinterest.com
 downloads.skype.com
-download.telegram.org
+
 download.twitter.com
 download.viber.com
 down.qq.com
@@ -1684,7 +1684,7 @@ dynamic.qzone.qq.com
 ea1-api.asm.skype.com
 ea.twimg.com
 ebp.renren.com
-eb.telegram.org
+
 ec.line.me
 
 
@@ -2147,7 +2147,7 @@ es.reddit.com
 es.swarmapp.com
 es.www.meetme.com
 et-ee.facebook.com
-e.telegram.org
+
 e.thumbs.redditmedia.com
 ethx.i.org
 etiservicepomeziasrl.slack.com
@@ -2168,7 +2168,7 @@ events.twitter.com
 event-web.line.me
 event.weibo.com
 e.wan.weibo.com
-eweb.telegram.org
+
 e.weibo.com
 eweibo.dpool.weibo.com
 exhenta.i.org
@@ -2355,9 +2355,9 @@ f.kiwibox.com
 flagsapi.skype.com
 flex.m.facebook.com
 flickr.com
-flora-1.web.telegram.org
+
 floranext.slack.com
-flora.web.telegram.org
+
 florine-et-ses-gymnastes.skyrock.com
 flower.qzone.qq.com
 flynorra.m.facebook.com
@@ -2481,17 +2481,17 @@ gardening.meetup.com
 gateway.reddit.com
 gator719.plus.google.com
 
-gbot.integrations.telegram.org
+
 gb.pinterest.com
 gcore.game.i.org
-gdfgd.telegram.org
+
 gegabytes.game.i.org
 generalelectric.m.facebook.com
 geofilters-community-api.snapchat.com
 geofilters.snapchat.com
 getbtn.com
 getbutton.io
-get.telegram.org
+
 
 gic0.odnoklassniki.ru
 gic1.odnoklassniki.ru
@@ -2717,7 +2717,7 @@ https-abs-twimg-com.0.freebasics.com
 https-accounts-google-com.0.freebasics.com
 https-ar-m-wikipedia-org.0.freebasics.com
 https-commons-m-wikimedia-org.0.freebasics.com
-httpsdesktop.telegram.org
+
 httpsecurevirus.i.org
 https-encrypted-google-com.0.freebasics.com
 https-en-m-wikipedia-org.0.freebasics.com
@@ -2904,7 +2904,7 @@ imoptj.renren.com
 
 im.qq.com
 im.renren.com
-im.telegram.org
+
 im.tieba.baidu.com
 imtt.dd.qq.com
 imv4.vk.com
@@ -2989,15 +2989,15 @@ instagram-shv-17-prn1.fbcdn.net
 instagram-shv-18-prn1.fbcdn.net
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
-instantview.telegram.org
-instaview.telegram.org
-integrations.telegram.org
+
+
+
 intellectual-discussion.meetup.com
 interact-api.snapchat.com
 interface.yy.com
 internetbatman.slack.com
 internet.org
-internet.telegram.org
+
 intern.expresswifi.com
 intern.facebook.com
 intern.freebasics.com
@@ -3035,7 +3035,7 @@ i.pinimg.com.edgekey.net
 i.pinimg.com.gslb.pinterest.com
 ipip.yy.com
 i.po.st
-ipv8.telegram.org
+
 
 i.redd.it
 i.reddit.com
@@ -3066,7 +3066,7 @@ it.swarmapp.com
 ituc-cs.i.org
 it.www.meetme.com
 iu.reddit.com
-ivwebcontent.telegram.org
+
 iy.reddit.com
 ja.api.meetme.com
 ja.datememe.com
@@ -3291,7 +3291,7 @@ ma2.twimg.com
 ma3.twimg.com
 mac57lee.skyrock.com
 m.accuweather.com.0.freebasics.com
-macos.telegram.org
+
 mahindra.m.facebook.com
 
 
@@ -3300,8 +3300,8 @@ mahindra.m.facebook.com
 mail2.static.discordapp.com
 mail2.support.snapchat.com
 mail72.odnoklassniki.ru
-maila11.telegram.org
-maila21.telegram.org
+
+
 
 
 
@@ -3323,8 +3323,8 @@ mail.pinterest.com
 mail.plus.google.com
 mail.pop.ftp.vk.com
 mail.reddit.com
-mails11.telegram.org
-mail.telegram.org
+
+
 
 mail.twitter.com
 makefriends.bs2dl.yy.com
@@ -3342,7 +3342,7 @@ mapp.qzone.qq.com
 maps.instagram.com
 map.snapchat.com
 maps.snapchat.com
-map.telegram.org
+
 market.admin.staging.viber.com
 market-api.cdn.viber.com
 market-api.staging.viber.com
@@ -3482,10 +3482,10 @@ messages.myspace.com
 message.tieba.baidu.com
 messaging.myspace.com
 messenger.com
-messenger.telegram.org
+
 messymarv.skyrock.com
 meta-api.reddit.com
-me.telegram.org
+
 methongtha.i.org
 metric.gotinder.com
 metrics.yy.com
@@ -3551,7 +3551,7 @@ mobile.odnoklassniki.ru
 mobile.qzone.qq.com
 mobile.renren.com
 mobilestats.ask.fm
-mobile.telegram.org
+
 mobile.twitter.com
 mobioinc.slack.com
 mode-et-swagg.skyrock.com
@@ -3609,7 +3609,7 @@ ms-my.facebook.com
 mstf-yldrm.skyrock.com
 mta17.myspace.com
 m.tagged.com
-m.telegram.org
+
 mtest.odnoklassniki.ru
 mtf.reddit.com
 mt.licai.renren.com
@@ -3666,7 +3666,7 @@ myopen.yy.com
 my.qzone.qq.com
 myspacecdn.com
 myspace.com
-my.telegram.org
+
 mytestworld.slack.com
 my.weibo.com
 mzero.beta.facebook.com
@@ -3720,7 +3720,7 @@ nelite-operamini.internet.org
 nen-gb.internet.org
 net.i.org
 netsec.reddit.com
-net.telegram.org
+
 netvision-expresswifi-com.netvision.in.expresswifi.com
 netvision.in.expresswifi.com
 networkmarket.meetup.com
@@ -3927,7 +3927,7 @@ o1.emails.the-dots.com
 o2.email.medium.com
 o5.email.medium.com
 oauth.reddit.com
-oauth.telegram.org
+
 oauth.vk.com
 o.beta.facebook.com
 obs.line.me
@@ -4011,7 +4011,7 @@ origincache-xx-shv-13-prn1.fbcdn.net
 origin-cvs-static-default.snapfish.com
 origin-snapfish-www.snapfish.com
 osdimktg.skyrock.com
-osx.telegram.org
+
 otalhfwqw.skyrock.com
 oth.str.mdt.qq.com
 o.twimg.com
@@ -4162,7 +4162,7 @@ pinpages.alwaysdata.net
 pinterest.com
 p.internet.org
 pipe.skype.com
-pi.telegram.org
+
 pixel.facebook.com
 pixel.reddit.com
 pixel.redditmedia.com
@@ -4188,8 +4188,8 @@ pl-pl.facebook.com
 plus.google.com
 plus.l.google.com
 plusone.google.com
-pluto-1.web.telegram.org
-pluto.web.telegram.org
+
+
 pm.i.org
 pmir.3g.qq.com
 pmir-hk.3g.qq.com
@@ -4490,7 +4490,7 @@ ru.reddit.com
 ru-ru.facebook.com
 ru.ssl.meetme.com
 ru.swarmapp.com
-ru.telegram.org
+
 ru.www.meetme.com
 r.viber.com
 
@@ -5315,7 +5315,7 @@ stg.freebasics.com
 stg.odnoklassniki.ru
 stickers.kik.com
 stickers-search.viber.com
-stickers.telegram.org
+
 stickers.viber.com
 storage.sc.weibo.com
 store-bill.line.me
@@ -5464,7 +5464,7 @@ tdw.i.org
 team.vk.com
 tech.gotinder.com
 teem.m.facebook.com
-telegram.org
+
 telegraph-ash.instagram.com
 telenor.m.facebook.com
 telkomsel.freebasics.com
@@ -5551,7 +5551,7 @@ tokenizerdogfood.in.expresswifi.com
 tokenizer.xwf.internet.org
 toltec.meetup.com
 tongji.tieba.baidu.com
-ton.telegram.org
+
 ton.twimg.com
 ton.twitter.com
 tools.3g.qq.com
@@ -5569,7 +5569,7 @@ translate.badoo.com
 
 translate.wechat.com
 
-translations.telegram.org
+
 transparency.twitter.com
 trans.renren.com
 tr.api.meetme.com
@@ -5711,16 +5711,16 @@ v4help.facebook.com
 v5.ask.fm
 vaneu.vk.com
 vdisk.weibo.com
-veb.telegram.org
+
 venteprivee.m.facebook.com
-venus-1.web.telegram.org
-venus.web.telegram.org
+
+
 verification.twitter.com
 verification-va.byteoversea.com
 verified.weibo.com
-vesta-1.web.telegram.org
-vesta.telegram.org
-vesta.web.telegram.org
+
+
+
 
 v.freebasics.com
 vgirl.weibo.com
@@ -5846,7 +5846,7 @@ vpn-shot.badoo.com
 vpn.tfbnw.net
 v.qzone.qq.com
 v.redd.it
-v.telegram.org
+
 vthumb.ak.fbcdn.net
 vthumb.xx.fbcdn.net
 v.tieba.baidu.com
@@ -5886,7 +5886,7 @@ wap.freebasics.com
 wap.internet.org
 wap.odnoklassniki.ru
 wap.renren.com
-wap.telegram.org
+
 war.renren.com
 watchdog.energized.pro
 watchdog-ext.energized.pro
@@ -5920,7 +5920,7 @@ webpush.web.wechat.com
 webpush.wechat.com
 website-api.gotinder.com
 web.skype.com
-web.telegram.org
+
 web.wechat.com
 
 weesnaw.plus.google.com
@@ -5934,8 +5934,8 @@ weirenwu.weibo.com
 weixin110.qq.com
 welcome.joinclubhouse.com
 wendy-la-baka.skyrock.com
-wep.telegram.org
-we.telegram.org
+
+
 w.facebook.com
 wg107.odnoklassniki.ru
 wg114.odnoklassniki.ru
@@ -6026,7 +6026,7 @@ wiki.developer.myspace.com
 wikihow.com.0.freebasics.com
 wildcard-talkgadget-189-178-233-64.l.plus.google.com
 wine-tasting.meetup.com
-win.telegram.org
+
 w.line.me
 wmf1.odnoklassniki.ru
 wmf.odnoklassniki.ru
@@ -6078,7 +6078,7 @@ ww.facebook.com
 ww.internet.org
 ww.i.org
 ww.plus.google.com
-ww.telegram.org
+
 www.0.facebook.com
 www.0.freebasics.com
 www.0.mx.freebasics.com
@@ -6155,7 +6155,7 @@ www.crc.internet.org
 www.datememe.com
 www.dbank.co.i.org
 www.del.icio.us
-www.desktop.telegram.org
+
 www.deviantart.com
 www.dictionary.com.0.freebasics.com
 www.discordapp.com
@@ -6270,7 +6270,7 @@ www.stumbleupon.com
 www.swarmapp.com
 www.tagged.com
 www.t.co
-www.telegram.org
+
 www.the-dots.com
 www.tieba.baidu.com
 www.tiktok.com
@@ -6281,7 +6281,7 @@ www.twitter.com
 www.viber.com
 www.vk.com
 
-www.wab.telegram.org
+
 www.webopedia.internet.org
 www.wechat.com
 www.weheartit.com
@@ -6339,7 +6339,7 @@ xlog-va.byteoversea.com
 xmpp.odnoklassniki.ru
 x.myspacecdn.com
 x.myspace.com
-xn--h1avi.telegram.org
+
 xn--r1a.website
 x.pluso.ru
 xpndr.skyrock.com
