@@ -1,3 +1,4 @@
-hotmail.*
-mail.google.*
-mail.live.*
+hotmail.com
+mail.google.com
+mail.live.com
+mail.me.com
