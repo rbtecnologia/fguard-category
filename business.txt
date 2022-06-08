@@ -4,6 +4,7 @@ licdn.com
 *.licdn.com
 *.microsoft.com
 microsoft.com
+windowsupdate.com
 *.windowsupdate.com
 office.net
 *.docs.google.com
@@ -31,3 +32,4 @@ onenote.net
 movidesk.com
 portalsgr.com.br
 anydesk.com
+autodesk.com
