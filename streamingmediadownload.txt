@@ -1,5 +1,7 @@
 youtube.*
 socialradio.com.br
+tidaltv.com
+*.tidaltv.com
 googlevideo.*
 vimeo.*
 twitch.*
