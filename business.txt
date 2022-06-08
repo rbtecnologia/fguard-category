@@ -35,3 +35,4 @@ portalsgr.com.br
 anydesk.com
 autodesk.com
 cloudflare.com
+mesu.apple.com
