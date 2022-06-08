@@ -15,3 +15,7 @@ mouradubeux.com.br
 rbtecnologia.com
 *.rbtecnologia.com
 lencr.org
+autodoc.com.br
+*.autodoc.com.br
+md.mybeehome.com
+courier.push.apple.com
