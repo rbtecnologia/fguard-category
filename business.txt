@@ -36,3 +36,6 @@ anydesk.com
 autodesk.com
 cloudflare.com
 mesu.apple.com
+huggy.app
+huggy.io
+tradersclub.com.br
