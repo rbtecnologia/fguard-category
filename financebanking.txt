@@ -8,3 +8,8 @@ bradesconetempresa.com.br
 nubank.com.br
 nubank.com
 banco.bradesco
+*.bradescoseguros.com.br
+*.gastecnologia.com.br
+gastecnologia.com.br
+bb.com.br
+*.bb.com.br
