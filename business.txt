@@ -26,3 +26,4 @@ avast.com
 dynamics.com
 *.powerapps.com
 powerapps.com
+canva.com
