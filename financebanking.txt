@@ -7,3 +7,4 @@ bradesco.com.br
 bradesconetempresa.com.br
 nubank.com.br
 nubank.com
+banco.bradesco

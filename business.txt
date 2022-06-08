@@ -2,3 +2,11 @@ linkedin.com
 licdn.com
 *.linkedin.com
 *.licdn.com
+*.microsoft.com
+microsoft.com
+*.windowsupdate.com
+office.net
+*.docs.google.com
+kaspersky.com
+*.powerbiexperience.com
+*.argoit.com.br
