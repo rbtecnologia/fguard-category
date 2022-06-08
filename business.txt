@@ -14,3 +14,4 @@ kaspersky.com
 mouradubeux.com.br
 rbtecnologia.com
 *.rbtecnologia.com
+lencr.org
