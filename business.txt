@@ -27,3 +27,4 @@ dynamics.com
 *.powerapps.com
 powerapps.com
 canva.com
+onenote.net
