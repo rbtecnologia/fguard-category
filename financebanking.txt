@@ -13,3 +13,4 @@ banco.bradesco
 gastecnologia.com.br
 bb.com.br
 *.bb.com.br
+bradesconetempresa.b.br
