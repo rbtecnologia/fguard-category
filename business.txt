@@ -10,3 +10,7 @@ office.net
 kaspersky.com
 *.powerbiexperience.com
 *.argoit.com.br
+*.mouradubeux.com.br
+mouradubeux.com.br
+rbtecnologia.com
+*.rbtecnologia.com
