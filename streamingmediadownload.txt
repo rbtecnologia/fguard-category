@@ -1,5 +1,6 @@
 youtube.*
 socialradio.com.br
+streamlock.net
 tidaltv.com
 *.tidaltv.com
 googlevideo.*
