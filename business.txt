@@ -20,3 +20,5 @@ autodoc.com.br
 md.mybeehome.com
 courier.push.apple.com
 plus.site24x7.com
+avast.com
+*avast.com
