@@ -1,0 +1,4 @@
+linkedin.com
+licdn.com
+*.linkedin.com
+*.licdn.com
