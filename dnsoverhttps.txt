@@ -1,0 +1,8 @@
+cloudflare-dns.com
+doh.dns.apple.com.v.aaplimg.com
+chrome.cloudflare-dns.com
+doh.dns.apple.com
+api.itopvpn.com
+1clickvpn.net
+04.vpnmasternet.online
+03.vpnmasternet.online
