@@ -2,3 +2,4 @@ hotmail.com
 mail.google.com
 mail.live.com
 mail.me.com
+mail.*
