@@ -4,3 +4,5 @@ dropbox.com
 onedrive.com
 wetransfer.com
 box.com
+*.s3.amazonaws.com
+s3.amazonaws.com
