@@ -3,3 +3,4 @@ icloud.com
 dropbox.com
 onedrive.com
 wetransfer.com
+box.com
