@@ -1,3 +1,6 @@
 whatsapp.com
+*.whatsapp.com
 whatsapp.net
+*.whatsapp.net
 telegram.org
+*.telegram.org
