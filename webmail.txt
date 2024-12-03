@@ -3,3 +3,5 @@ mail.google.com
 mail.live.com
 mail.me.com
 mail.*
+accounts.google.com
+workspace.google.com
