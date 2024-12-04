@@ -371,3 +371,4 @@ bemol.*
 lojasmel.*
 shopee.*
 zoom.com.br
+shopeemobile.*
